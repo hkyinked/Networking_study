@@ -1,6 +1,6 @@
 # Networking_study
 This is fun little project I built to help myself study my networking and linux and hardware knowledge. Program is built using python and tkinter.
-In orer to run this application you must first have python 3 & tkinter installed.
+In orer to run this application you must first have python 3 & tkinter installed. App is still under construction.
 
 <p align="center">Author: Nerdyj</p>
 
